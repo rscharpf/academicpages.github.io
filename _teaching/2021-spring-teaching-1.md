@@ -8,8 +8,6 @@ date: 2021-03-23
 location: "Baltimore, MD, USA"
 ---
 
-# Overview
-
 The objective is to introduce Bayesian methodology for public health applications, with an emphasis on computational solutions for addressing scientific questions in public health.
 
 # Textbooks and Reading
@@ -17,6 +15,10 @@ The objective is to introduce Bayesian methodology for public health application
 * Peter D. Hoff, A First Course in Bayesian Statistical Methods, 2009
 
 [Hoff's website](https://pdhoff.github.io/book/)
+
+# Github 
+
+[members only](https://github.com/bayesian763-2018/course-materials)
 
 
 # Grading and Exams
