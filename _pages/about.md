@@ -14,9 +14,10 @@ redirect_from:
 
 - Methods and software for modeling technical and biological variation within and between large-scale studies with high-throughput data.  Applications include Bayesian hierarchical models for differential gene expression analysis in multiple studies and Bayesian hierarchical models for copy number estimation.
 
-- Modeling genomic contributors to cancer risk using models that incorporate measurement error of genomic covariates such as copy number.
+- Modeling the contribution of molecular characteristics to cancer risk using models that incorporate measurement error of genomic variants.
 
 - Bayesian approaches to model uncertainty in evolutionary models of cancer progression.
+
 
 # Statistical software
 
