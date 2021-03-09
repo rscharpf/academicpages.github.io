@@ -11,8 +11,8 @@ redirect_from:
 
 Current Appointments
 ======
-Associate Professor, Department of Oncology, Johns Hopkins School of Medicine, 2018-
-Associate Professor, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 2018-
+* Associate Professor, Department of Oncology, Johns Hopkins School of Medicine, 2018-
+* Associate Professor, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 2018-
 
 Education and Training
 ======
@@ -23,8 +23,8 @@ Education and Training
 
 Professional Experience
 ======
-Assistant Professor, Department of Oncology, Johns Hopkins School of Medicine, 2010-2018 
-Visiting Assistant Professor, American University of Armenia, Yerevan, Armenia, 2007-2008\\
+* Assistant Professor, Department of Oncology, Johns Hopkins School of Medicine, 2010-2018 
+* Visiting Assistant Professor, American University of Armenia, Yerevan, Armenia, 2007-2008\\
 
 
 Publications
