@@ -11,6 +11,9 @@ citation: 'Cristiano S et al. (2019). &quot;Genome-wide cell-free DNA fragmentat
 
 This paper describes an approach called DELFI to identify features of cell-free DNA fragmentation from shallow whole genome sequencing for early cancer detection.
 
-Downloads:  [pdf](http://rscharpf.github.io/files/Cristiano_et_al_Nature_2019.pdf), [bibtex](http://rscharpf.github.io/files/Cristiano_et_al_Nature_2019.bib) 
+[Download paper here](http://rscharpf.github.io/files/Cristiano_et_al_Nature_2019.pdf)
+
+Citation: [bibtex](http://rscharpf.github.io/files/Cristiano_et_al_Nature_2019.bib)
+
 
 
