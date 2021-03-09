@@ -14,9 +14,14 @@ The objective is to introduce Bayesian methodology for public health application
 
 # Textbooks and Reading
 
-# Homework
+* Peter D. Hoff, A First Course in Bayesian Statistical Methods, 2009
+
+[Hoff's website](https://pdhoff.github.io/book/)
+
 
 # Grading and Exams
+
+- Weekly homework assignments and a data analysis project
 
 # Prerequisites
  
