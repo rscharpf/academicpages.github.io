@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Johns Hopkins Bloomberg School of Public Health, Department of Biostatistics"
-date: Spring, 2021
+date: 2021-03-23
 location: "Baltimore, MD, USA"
 ---
 
