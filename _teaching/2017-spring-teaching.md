@@ -10,6 +10,12 @@ location: "Baltimore, MD, USA"
 
 The objective is to introduce Bayesian methodology for public health applications, with an emphasis on computational solutions for addressing scientific questions in public health.
 
+**Years offered:**
+
+* 3rd quarter, 2013
+* 3rd quarter, 2015
+* 3rd quarter, 2017
+
 # Textbooks and Reading
 
 * Peter D. Hoff, A First Course in Bayesian Statistical Methods, 2009
