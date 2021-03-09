@@ -9,32 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Current Appointments
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Associate Professor, Department of Oncology, Johns Hopkins School of Medicine, 2018-
+Associate Professor, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 2018-
 
-Work experience
+Education and Training
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.S. in Biology, James Madison University, 1994
+* M.S. in Biotechnology, Johns Hopkins University, 2002
+* Ph.D in Biostatistics, Johns Hopkins Blomberg School of Public Health, 2007 
+* Postdoctoral Fellowship in Biostatistics, Johns Hopkins Blomberg School of Public Health, 2010
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Assistant Professor, Department of Oncology, Johns Hopkins School of Medicine, 2010-2018 
+Visiting Assistant Professor, American University of Armenia, Yerevan, Armenia, 2007-2008\\
+
 
 Publications
 ======
@@ -56,4 +47,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
