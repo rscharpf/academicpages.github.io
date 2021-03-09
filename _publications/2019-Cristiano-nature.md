@@ -13,4 +13,5 @@ citation: 'Cristiano S et al. (2019). &quot;Genome-wide cell-free DNA fragmentat
 
 [Download paper here](http://rscharpf.github.io/files/Cristiano_et_al_Nature_2019.pdf)
 
-Recommended citation: Cristiano S et al. (2019). "Genome-wide cell-free DNA fragmentation in patients with cancer" <i>Nature</i>. 570(7761).
+Recommended citation: [bibtex](http://rscharpf.github.io/files/Cristiano_et_al_Nature_2019.bib)
+
