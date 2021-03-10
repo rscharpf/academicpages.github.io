@@ -33,6 +33,8 @@ redirect_from:
 
 - [CNPBayes](https://github.com/scristia/CNPBayes): a Bayesian hierarchical model for copy number estimation and integration with cancer risk models
 
+- [trellis](https://github.com/cancer-genomics/trellis): Identification of somatic structural variants from tumor-only whole genome sequencing.
+
 
 
 
