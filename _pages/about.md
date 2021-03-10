@@ -18,4 +18,6 @@ redirect_from:
 
 - Bayesian approaches to model uncertainty in evolutionary models of cancer progression.
 
+- Statistical models for co-occurrence of somatic sequence variants, copy number variants, and rearrangements in large-scale databases. 
+
 
