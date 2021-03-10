@@ -15,4 +15,4 @@ This paper describes an approach for identifying somatic structural variants fro
 
 Citation: [bibtex](papp_cellreports2018.bib)
 
-[Software](https://github.com/cancer-genomics/trellis)
+Software: [trellis](https://github.com/cancer-genomics/trellis)
